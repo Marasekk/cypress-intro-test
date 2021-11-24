@@ -1,2 +1,3 @@
 THIS IS AN EXAMPLE OF A TEST CASE
+test cases are in "intro_test.js"
 

@@ -1,1 +1,2 @@
 THIS IS AN EXAMPLE OF A BUG REPORT
+Maximum limit price can go over 20 000.
